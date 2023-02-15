@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    background-color: #D9D9D9;
+}
