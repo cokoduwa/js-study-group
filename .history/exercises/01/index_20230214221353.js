@@ -6,6 +6,7 @@
 
 let description = document.getElementById("description");
 let amount = document.getElementById("amount");
+
 const calculateBtn = document.getElementById("calculate-btn");
 
 //calculate button action
